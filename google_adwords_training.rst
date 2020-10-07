@@ -58,6 +58,7 @@ Google Ads campaign types
 * in App
 * Speciazlied Campaign Types ( Local / Hotel / Discovery )
 
+
 Knowledge check
 ---------------
 
@@ -65,3 +66,19 @@ Knowledge check
 * ``Shopping:`` Promote your products, share details about your inventory, and boost traffic to your online or physical store.
 * ``Search:`` Drive action on your site when users are searching for similar products or services.
 * ``Video:`` Reach your target audience at scale and bring your business’ story to life.
+
+
+Drive efficiency with Smart campaigns
+=====================================
+
+an easy way to reach relevant customers and drive results but have limited time or experience with managing Google Ads campaigns.
+
+
+Optimize your campaign
+======================
+
+* `Device targeting:`: Reach your customers on any device, including desktops, tablets, and smartphones.
+* `Locations and language targeting:` Your campaign’s ads are eligible to show to customers in particular locations, or to customers who've chosen your selected language as their browser’s language setting.
+* `Bidding and budget settings:` Your bid strategy controls how you pay for users to interact with your ads. Your bid limit is the most that you’ll pay per click for ads in an ad group, and your budget is the average amount that you’re comfortable spending each day on your campaign. The budget that you choose is entirely up to you, and you can adjust it at any time.  
+* `Ad extensions:` Include even more information with your ads, such as location details, links to pages on your website, and your phone number
+
