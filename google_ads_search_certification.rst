@@ -808,3 +808,249 @@ Note
 ----
 
 Enhanced CPC, Target CPA, Maximize Conversions, and Target ROAS fall specifically under the umbrella of Google Ads Smart Bidding. They’re conversion-based bid strategies that leverage an exclusive set of signals to bid at auction time.
+
+--------
+
+Reach Valued Customers with Search Audiences
+############################################
+
+1. Identify the benefits of Google's Search Audience solutions
+==============================================================
+
+Google’s Audience solutions is a set of strategies and products that help you reach high-value customers in the moments when they’re ready to buy the products you offer. 
+
+Audience solutions allow you to ``create audience lists to layer on your ad groups, combining intent and insights`` to send the ``right message`` to the ``right customer`` with the ``right bid``.
+
+This is important because today’s customers expect ``frictionless experiences across all channels``, providing them with the ``relevant information they seek``
+
+how to tailor campaign to suit various customer groups
+------------------------------------------------------
+
+Google’s Search Audience solutions allow to create audience lists based on a multitude of signals, then ``layer those audience lists onto ad groups``. This allows to then condition bids, creatives, and keywords based on various customer groups.
+
+* combine the intent
+* with insights
+* right monent
+* right bid
+* right message
+
+Evolving to meet customer expectations
+--------------------------------------
+
+* technology continues to shape people’s lives and shopping behavior
+* People expect all digital experiences to be helpful, personal, and frictionless, providing a seamless experience no matter what the channel may be.
+* ``Being useful and relevant is the only way to get customers to tune in.``
+
+Meet your marketing goals
+-------------------------
+
+* Create awareness
+* Drive consideration
+* Increase purchases and loyalty with your existing customers
+
+Marketing goal: Create awareness
+--------------------------------
+
+* ``Detailed Demographics:`` Detailed Demographics allows advertisers to reach people based on advanced demographic criteria like marital status, education, parenting stage, and homeownership.
+* ``Afinity Audiences:`` Affinity Audiences aggregates people who have demonstrated a strong interest in a given topic.
+
+Marketing goal: Drive consideration
+-----------------------------------
+
+Each of the following solutions helps you drive consideration among potential customers and people who have interacted with your brand in the past.
+
+* ``In-market audiences:`` In-Market Audiences is a powerful way to drive consideration among people who are actively researching the products or services you offer and who ``we've inferred are in-market to buy them``, including those thinking of buying from other places.
+* ``Remarketing Lists for Search Ads ( RLSA):`` RLSA helps you reach people who have engaged with your website or YouTube channel in the past.
+* ``Similar Audiences for Search:`` Similar Audiences for Search helps you find new customers that share the behaviors and characteristics of your remarketing audience segments. 
+
+Marketing goal: Increase purchases and loyalty with your existing customers
+---------------------------------------------------------------------------
+
+Each of the following solutions helps you reach your existing customers.
+
+* ``Customer Match:`` Customer Match allows you to upload your own data into Google Ads and reach custom segments across devices. Find your loyal customers, exclude your current customers, and expand to reach those that resemble your customers.
+* ``Remarketing Lists for Search Ads ( RLSA ):`` Remarketing Lists for Search Ads can help you reach those who were your customers in the past (those who've gotten to your website’s thank-you page)
+
+How Audience solutions can enhance your Search strategy
+-------------------------------------------------------
+
+3 ways that Google’s Audience solutions can help you enhance your Search strategy
+
+* Variable bidding
+* Keyword expansion
+* Create customization
+
+How Audience solutions can enhance your Search strategy - Variable bidding
+--------------------------------------------------------------------------
+
+* What
+
+Layer at least one audience group on top of your Search campaign, and bid differently for that audience based on their value to your business.
+
+* How:
+
+Increase your bids on certain audiences:
+
+If you bid higher for certain audiences, you’ll potentially have your ad shown at a better position when people search for you. For example, using Affinity Audiences, Hiroko could bid higher for customers searching for “mountain bikes” who are also passionate about outdoor adventure sports.
+
+Decrease your bids on certain audiences:
+
+Certain audiences might not have as strong a performance as others do, so you can reduce your bids when those audiences search for you. For example, using Remarketing Lists for Search Ads, you may know that certain past visitors have a low shopping basket average value. Bidding lower for lists that include such visitors may improve your overall campaign performance.
+
+* Why you should care
+
+Ad auctions are competitive, and you want to make sure you’re making the right bids when certain groups of people are searching for you.
+
+How Audience solutions can enhance your Search strategy - Keyword expansion
+--------------------------------------------------------------------------
+
+* What
+
+Expand your keyword set to larger set terms and more broad terms. Engage the mid- and upper funnel for greater reach.
+
+* How
+
+Create ad groups that target generic keywords and only show ads to certain audiences. Bidding for generic keywords can be costly, as it’s not always a given that people searching for those terms are in the market for your product.
+
+* Why you should care
+
+For example, people searching for the term “commute options” might not be looking for bicycles and aren’t relevant customers for a bike shop. You may decide to create an ad group that targets generic terms like “commute” and only have your ads shown to people that have been added to an in-market list for "Autos & Vehicles > Vehicles (Other) > Bicycles & Accessories," increasing the relevancy of your ad.
+
+How Audience solutions can enhance your Search strategy - Create customization
+--------------------------------------------------------------------------
+
+* What
+
+Reach different audience segments with unique messaging that will resonate best with them. Using Google Audiences, you can tailor your ad creatives based on the user.
+
+* How
+
+You can build ad groups catering to specific audience lists and create bespoke text ads for those groups of people.
+
+For example, using Customer Match, you can create an ad that will show only to people who have signed up to your mailing list, offering them a discount for returning to your site.
+
+* Why you should care
+
+The more relevant your ads, the better the user experience for your customers, leading to a higher click-through rate and better campaign performance! 
+
+For example, using Remarketing Lists for Search Ads, you can create an ad that’s relevant for new customers and only show it to them (by excluding all the people who’ve already visited your site in the past year).
+
+2. Reach prospective customers with Google's Search Audience solutions
+======================================================================
+
+Summary
+-------
+
+* Affinity Audiences
+* Detailed Demographics
+* In-Market Audiences
+
+Affinity Audiences
+------------------
+
+Affinity Audiences aggregates users who’ve demonstrated a qualified interest in a given topic, allowing you to access the people your product or service will most likely matter to.
+
+Detailed Demographics
+---------------------
+
+Using Detailed Demographics, you can reach customers based on their activities on Google.com. These activities may indicate certain things about their lives, including parental status, parenting stage, homeownership status, marital status, and education status.
+
+In-Market Audiences
+-------------------
+
+Google’s Audience solutions can tell the difference between interest and intent.
+
+NOTE
+----
+
+Affinity Audiences, Detailed Demographics, and In-Market Audiences are auto-included and automatically used as a ``signal for conversion-based search bidding strategies``. Even so, it's recommended that you apply these audiences to view list- and segment-specific performance and implement creative customization.
+
+How do these solutions work?
+----------------------------
+
+* ``Singlas:`` Google’s intelligent algorithms leverage behavior on Google.com, YouTube, Google Maps, Google Shopping, and more to identify repeated patterns of behavior.
+* ``Survey:`` Google validates this behavior using surveys and conversion data.
+* ``Scale:`` As users move between mobile and desktop, Google maintains a holistic picture of their behaviors, helping brands to reach users across devices.
+
+3. Harness the power of your own data to reach your marketing objectives
+========================================================================
+
+Remarketing Lists for Search Ads (RLSA)
+---------------------------------------
+
+Remarketing Lists for Search Ads allows you to serve unique ad creatives and set your ad group bids differently, based on past interactions with your site or app.
+
+Improving campaign performance with RLSA
+----------------------------------------
+
+sample groups
+
+* group1: never heard of site
+
+  * Create a text ad that includes a "new user offer" to reach the first group, as these people haven't been to her site yet
+
+* group2: visited site before, but still researching different options
+
+  * Bid higher for the second group, which has a greater chance of converting, since these people already know about her site.
+
+* group3: reached site's checkout page, but didn't fill in their detail
+
+  * Create a a text ad that includes a special "return offer" to reach the third group. These people might decide to return and make a purchase!
+  
+So how does this all work exactly?
+----------------------------------
+  
+  Once Site are taged with the Google Ads remarketing tag, people who visit will be added to Site remarketing lists. Site can then define different audience lists based on the pages these people visited and the recency of their interaction with her site.
+
+What's possible after that?
+
+* Increase bids on certain audiences  
+* Decrease bids on certain audiences 
+* Create ad groups targeting generic keywords and only show ads to those who’ve visited her before
+* Tailor ad creatives based on the customer
+* Exclude certain audience lists from campaigns
+
+Policies and requirements
+-------------------------
+
+Google only uses data to serve ads as specified by your campaign setup. We don’t share the cookie lists with any advertisers, including you as the account owner. A remarketing list must have at least 1,000 users on it before it can be used.
+
+Customer Match
+--------------
+
+Your customer relationship management (CRM) data can help you understand the types of people who have a relationship with your brand, and you can use insights from your data to address your marketing challenges. 
+
+Customer Match allows you to leverage your online and offline customer data to reach your customers and deliver the right message wherever they are, on any device, across Search, YouTube, and Discovery.
+
+Customer Match - How it works
+-----------------------------
+
+Upload your customer data into Google Ads. We’ll match it against the people who search on Google.com, and form it into audience lists. The upload can include various types of customer data (for matching), such as email address, mailing address, and phone number. Let's take a closer look at the steps below.
+
+* ``Segment:`` Segment a customer list based on desired marketing action (e.g., reactivation of lapsed customers).
+* ``Upload:`` Upload the list to Google Ads.
+* ``Audience Lists:`` The list is translated into an audience list and made available for targeting on Search, YouTube, and Discovery.
+* ``Customize Creative:`` Customize your creatives with special offers or incentives that are specific to this audience.
+
+Customer Match - Why complement your Audience strategy with Customer Match?
+---------------------------------------------------------------------------
+
+* Diversify your audience strategy with a tagless strategy.
+* Re-engage with customers you haven’t seen in awhile.
+* Reach customers who may not have converted online and aren’t a part of your remarketing lists (i.e, customers who converted off your app or in your store).
+* Reach customers based on their purchase history (i.e, customers who’ve made at least one purchase in the last month). 
+* Reach customers according to their lifetime value.
+
+Similar Audiences 
+-----------------
+
+Similar Audiences leverages your remarketing lists to find new customers with similar characteristics as your existing customers. It can help you expand the reach of your valuable audiences, across all platforms.
+
+Similar Audiences - How it works
+--------------------------------
+
+1. Similar Audiences finds people that are similar to those on an original remarketing “seed” list. The people are similar in profile based on the seed list members’ recent browsing interests, search terms, and videos watched on YouTube.
+2. Our system “scores” people based on how similar they are to those on the original seed list, with similarity defined as interested in the same categories, topics, and products.
+3. Once you have lists of similar audiences, you can layer these lists over your campaigns and bid higher to reach valuable potential customers.
+
+* NOT: Each similar audience has its seed list members removed to ensure that no one overlaps between a similar list and its seed list. In the case of an All Visitors list, this would mean that the Similar to All Visitors list is comprised of users who’ve not been to your site before.
