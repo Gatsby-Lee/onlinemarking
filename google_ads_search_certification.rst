@@ -277,3 +277,95 @@ Check knowledge
 
 * What is the key value proposition of Google Search campaigns? ( Show your ads when a customer is searching for your product or service )
 * hierarchy ( Account > Campaign > Ad group > Ad )
+
+-----------
+
+Understand the Google Ads Auction
+#################################
+
+1. What is the Google Ads auction?
+==================================
+
+How the Google Ads auction works
+--------------------------------
+
+* Google Ads uses an auction system to rank
+* Google uses a special version of a second-price auction that takes into account more than just bids.
+* second-price auction ( $0.01 more than the amount of the next highest bidder. )
+
+  * e.g.) four bidder, $4, $3, $2, $1, the winner pays $3.01
+
+
+How Ad Rank determines your ad position
+---------------------------------------
+
+* Bid
+* Ad rank threshold ( ad quality )
+* context of query ( search term, location, time, device )
+* Ad extensions impact ( phone number, links to site )
+* Action-time ad quality ( how relevant and useful your ad to the linked site )
+
+
+The three main factors that determine the quality of an ad
+----------------------------------------------------------
+
+* expected clickthrough rate ( user feedback to drive decision making - CTRs )
+* Ad landing page experience ( highly relevant landing page yields a higher score )
+
+  * navigable
+  * transparent about the nature of the business
+  * intention to use their personal information
+
+* Ad relevance ( on useful ads are shown / preventing unnecessary paying )
+
+
+How Ad Rank influences actual cost per click
+--------------------------------------------
+
+* Oftentimes, average cost per click (CPC) is not the price you’re paying for each of your clicks
+* Higher-quality ads typically lead to lower costs, better ad positions, and more advertising success.
+
+
+2. Improving Ad Rank
+====================
+
+What is Quality Score?
+----------------------
+
+* Quality Score is an estimate of the quality of your ads, keywords, and landing pages.
+* Quality score is composed of expected clickthrough rate, ad relevance, and landing page experience
+* https://support.google.com/google-ads/answer/6167123
+
+
+three main factors that determine ad quality
+--------------------------------------------
+
+* Expected clickthrough rate ( eCTR )
+* Ad relevance
+* Landing page experience
+
+To improve your ad quality, focus on the three components of Quality Score
+---------------------------------------------------------------------------
+
+* ``Expected clickthrough rate:`` The likelihood that the add will be clicked
+
+  * Expected clickthrough rate (eCTR) predicts whether your keyword is likely to lead to an ad click.
+  * ``Be specific in your ad:`` Include keywords in your ad text (especially in the headline) to show people that your ad is directly relevant to their search.
+  * ``Experiment with different calls to action:`` Do you offer free shipping or free returns? Call now vs. book now?
+  * ``Highlight a unique benefit of your product or service:`` What makes you stand out from the competition? Think about what matters to users (perhaps an exceptional warranty or return policy).
+  * ``Create time- or location-specific ad text:`` Test seasonal creative around holidays or special events, or test location-optimized creative.
+
+* ``Ad relevance:`` How closely the ad matches the intent behind a user's search
+
+  * ``Add negative keywords:`` Prevent your ads from showing on unwanted queries or queries not closely related to your product or service.
+  * ``Be specific on mobile:`` If a user’s mobile search experience is different from desktop, test mobile-specific creatives.
+  * ``Be local:`` Target the right region for your business by using only the relevant languages and locations.
+  * ``Include relevant search terms in your ad copy:`` Adding search terms that are related to your business in your ad copy can help make your ad more resonant for users.
+
+* ``Landing page experience:`` How relevant, transparent, add easy to navigate the page is for users
+
+  * ``Send traffic to the right landing page:`` Direct clicks to pages related to a user’s query. If a search is for “striped shirts,” the landing page should feature striped shirts, not some other variety of shirts or clothing in general.
+  * ``Be consistent:`` Make sure the landing page continues the conversation set up by your ad and follows through on the ad’s offer or call-to-action.
+  * ``Make your site transparent and trustworthy:`` Make it easy for visitors to find your contact information, and clearly state what your business does. If you request personal information from customers, make it clear why you’re asking for it and what you’ll do with it.
+  * ``Work on loading speed and clarity:`` Help users quickly find what they’re looking for by prioritizing the content that’s visible above-the-fold.
+  * ``Rethink mobile:`` Ease of navigation is valued by users even more on mobile websites, so make sure yours is optimized.
