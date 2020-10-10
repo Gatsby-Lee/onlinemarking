@@ -1054,3 +1054,54 @@ Similar Audiences - How it works
 3. Once you have lists of similar audiences, you can layer these lists over your campaigns and bid higher to reach valuable potential customers.
 
 * NOT: Each similar audience has its seed list members removed to ensure that no one overlaps between a similar list and its seed list. In the case of an All Visitors list, this would mean that the Similar to All Visitors list is comprised of users who’ve not been to your site before.
+
+--------
+
+Boost Performance with Optimization Score
+#########################################
+
+1. What are the benefits of optimization score?
+-----------------------------------------------
+
+Optimizing Search campaigns can be a challenging task. That’s because there are many ways to improve the performance and ROI of each campaign. To streamline the process, Google Ads is introducing optimization score.
+
+Why optimization score?
+----------------------
+
+The higher your score, the more your account is running to its full potential. 
+
+What are the benefits of Optimization Score?
+--------------------------------------------
+
+* ``Instant:`` With optimization score, you get real-time estimates of how your accounts and campaigns are performing
+* ``Customized:`` Optimization score uses a variety of methods, such as statistical modeling, to give you recommendations tailored to your account’s performance.
+* ``Scalable:`` Scores and recommendations are available for campaigns, accounts, and most manager accounts (MCCs). This allows you to apply recommendations across multiple layers of your advertising strategy.
+
+2. How does optimization score work?
+------------------------------------
+
+Put optimization score to work for you
+---------------------------------------
+
+* How is your optimization score calculated?
+
+Optimization score runs an algorithm that looks across key aspects of your accounts, including statistics, settings, and industry trends, to determine whether your campaigns are fully optimized. When optimization potential is detected, the system provides recommendations to close the gap. For example, an account with a score of 80% could improve its performance by 20% if the listed recommendations are adopted.
+
+* Where do the points come from?
+
+A combination of statistical models, simulations, and machine learning is used to assign points to each recommendation, based on the likelihood that it will enhance your account’s performance. If a recommendation can have more impact, it’s weighted more heavily toward your overall score.
+
+* What does this mean for your business?
+
+Optimization score is made up of over 50 recommendations, meant to help you make your advertising more efficient, reach new audiences, and spend smarter. The score is real-time responsive, so it’s a snapshot of your optimization potential at a given time. That means you can instantly improve your account by applying recommendations that meet your business objectives.
+
+* What if your're using Search Ads 360?
+
+Your recommendations reflect your Search Ads 360 bid strategies and data sharing preferences. Contact your Search Ads 360 team for additional information. Learn more about data sharing preferences here. - https://support.google.com/searchads/answer/7325979
+
+See optimization score in action
+--------------------------------
+
+* Room for improvement
+* Accepting recommendations
+* Achieving success
