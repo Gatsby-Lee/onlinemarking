@@ -1105,3 +1105,103 @@ See optimization score in action
 * Room for improvement
 * Accepting recommendations
 * Achieving success
+
+-----------
+
+Increase Conversions with Performance Planner
+#############################################
+
+1. Why you should plan for performance with Performance Planner
+===============================================================
+
+What's the Google Ads Performance Planner?
+------------------------------------------
+
+Performance Planner is a new forecasting tool that uses machine learning to reveal the possibilities for your Google Ads campaigns. With this tool, you can explore forecasts for your upcoming monthly, quarterly, and annual budgets for current campaigns, while also helping to improve your return on investment.
+
+How does the Performance Planner work?
+--------------------------------------
+
+Performance Planner determines the optimal bids and average daily budget allocations across all of your campaigns to help increase the number of conversions you can achieve for any future spend scenario. It uses the following process:
+
+How does Performance Planner forecast campaign performance?
+-----------------------------------------------------------
+
+* forecasting
+* simulation
+* machine learning
+* validation
+
+2. How to use Performance Planner
+=================================
+
+Optimal budgets and bids are crucial to getting the most of your marketing budget
+---------------------------------------------------------------------------------
+
+1. The additional conversions you can generate at the same spend using Performance Planner.
+2. The incremental number of conversions you can achieve and maximum amount you can spend without diminishing returns (maintain your current CPA)
+3. The incremental number of conversions you can achieve and maximum amount you can spend at your desired target CPA goal (in order to remain profitable)
+4. Additional spend and resulting conversion scenarios at higher target CPA goals (reduce profitability to increase total conversion volume) 
+
+Why should I use Performance Planner every month?
+-------------------------------------------------
+
+Seasonality, fluctuating auctions, and competitors mean that Google Ads campaigns should be planned and optimized on at least a monthly basis.
+
+Best Practices
+--------------
+
+* Create separate plans for each marketing objective.
+
+  Don't add all brand and generic campaigns into the same plan. That's because different campaigns often have different marketing objectives. Incremental conversions are achieved by creating separate plans for each marketing objective.
+
+* Set bids and budgets using non-last click conversions.
+
+  By default, Performance Planner will forecast conversions based on what's included in the Conversions column in your Google Ads front end. To allocate budgets that drive incremental conversions, set bids and budgets using non-last click conversions in your Conversions column.
+  
+* Regularly check your plan.
+
+  Forecasts improve when plans are generated closer to the actual run date. Make sure to regularly check back on your plan before implementing it.
+
+
+3. Take action with Performance Planner
+=======================================
+
+What changes will Performance Planner recommend?
+------------------------------------------------
+
+These recommendations are campaign settings forecasted to help drive maximum conversions and the most efficient return on your investment for your targeted budget.
+
+* Search Manual cost-per-click (CPC) or Enhanced CPC campaigns
+
+  Recommended average daily budget and campaign bid scaling (1.5 scaling means + 50% bid scaling)
+
+* Search Maximize Clicks or Maximize Conversions campaigns
+
+  Recommended average daily budget
+
+* Search Target CPA or Target return on ad spend (ROAS) campaigns
+
+  Recommended average daily budget, Campaign-level Target CPA, or Campaign-level Target ROAS
+
+
+Performance Planner Best Practices
+----------------------------------
+
+* Use non-last click attribution conversions
+
+  Performance Planner forecasts for conversion types that are activated for the Include in Conversions setting in the Conversions column. To allocate budgets that drive incremental conversions, include non-last click attribution conversions in the Include in Conversions column. 
+  
+* Create multiple plans for campaigns that have different marketing objectives
+
+  It's a best practice to separate campaigns with different marketing objectives into different Performance Planner plans, so that spend isn't reallocated between two different marketing objectives. Instead, consider grouping campaigns by marketing goal or budget. 
+
+  For example, you could split consideration and intent-focused campaigns by separating generic search campaigns (such as a campaign containing keyword "suv sale") and brand search campaigns (such as a campaign containing keyword "buy Landriver suv") into separate plans.
+  
+* Use the performance targets feature
+
+  Unpredictable external factors in a dynamic auction environment mean that Performance Planner forecasts may have discrepancies. As a result, it's important to continually track and optimize performance. Use the performance targets feature to monitor targets set in Performance Planner and receive alerts and recommendations when a campaign isn't on track. - https://support.google.com/google-ads/answer/6393275
+
+* Use optimization score in the Recommendations page to improve your campaigns
+
+  Performance Planner is used for forecasting future periods and recommendations in Performance Planner can be used as guidance to ensure seasonality and budget reallocation are accounted for future periods so you can prevent your campaigns from becoming “Limited by Budget”
