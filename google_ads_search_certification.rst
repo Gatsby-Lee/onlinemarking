@@ -996,11 +996,11 @@ sample groups
 * group3: reached site's checkout page, but didn't fill in their detail
 
   * Create a a text ad that includes a special "return offer" to reach the third group. These people might decide to return and make a purchase!
-  
+
 So how does this all work exactly?
 ----------------------------------
   
-  Once Site are taged with the Google Ads remarketing tag, people who visit will be added to Site remarketing lists. Site can then define different audience lists based on the pages these people visited and the recency of their interaction with her site.
+Once Site are taged with the Google Ads remarketing tag, people who visit will be added to Site remarketing lists. Site can then define different audience lists based on the pages these people visited and the recency of their interaction with her site.
 
 What's possible after that?
 
@@ -1061,7 +1061,7 @@ Boost Performance with Optimization Score
 #########################################
 
 1. What are the benefits of optimization score?
------------------------------------------------
+===============================================
 
 Optimizing Search campaigns can be a challenging task. That’s because there are many ways to improve the performance and ROI of each campaign. To streamline the process, Google Ads is introducing optimization score.
 
@@ -1078,7 +1078,7 @@ What are the benefits of Optimization Score?
 * ``Scalable:`` Scores and recommendations are available for campaigns, accounts, and most manager accounts (MCCs). This allows you to apply recommendations across multiple layers of your advertising strategy.
 
 2. How does optimization score work?
-------------------------------------
+====================================
 
 Put optimization score to work for you
 ---------------------------------------
@@ -1204,4 +1204,4 @@ Performance Planner Best Practices
 
 * Use optimization score in the Recommendations page to improve your campaigns
 
-  Performance Planner is used for forecasting future periods and recommendations in Performance Planner can be used as guidance to ensure seasonality and budget reallocation are accounted for future periods so you can prevent your campaigns from becoming “Limited by Budget”
+  Performance Planner is used for forecasting future periods and recommendations in Performance Planner can be used as guidance to ensure seasonality and budget reallocation are accounted for future periods so you can prevent your campaigns from becoming Limited by Budget
