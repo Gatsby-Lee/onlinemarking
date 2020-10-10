@@ -1205,3 +1205,10 @@ Performance Planner Best Practices
 * Use optimization score in the Recommendations page to improve your campaigns
 
   Performance Planner is used for forecasting future periods and recommendations in Performance Planner can be used as guidance to ensure seasonality and budget reallocation are accounted for future periods so you can prevent your campaigns from becoming Limited by Budget
+
+Here are some additional factors that you should check while budget planning:
+-----------------------------------------------------------------------------
+
+* Seasonality
+* Market Share
+* Growth
