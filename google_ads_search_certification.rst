@@ -479,3 +479,228 @@ Important note
 
 Create at least one responsive search ad for each ad group, and ensure to include at least two expanded text ads in that group.
 * Best Practive - http://services.google.com/fh/files/misc/creativebestpracticesguide.pdf
+
+
+Make ads relevant with Search Ad Extensions
+===========================================
+
+1. Explain why ad extensions matter
+===================================
+
+* Every single query on Google reflects a specific consumer need.
+* Using the right ad extensions improves user experiences and increases engagement
+
+What do users want?
+-------------------
+
+* Relevant information
+* Information based on their moment
+* Ads that contribute to their experience
+
+Why does this matter to users?
+-------------------------------
+
+* Increased engagement
+* ``Better ad quality:`` Ad formats will impact Ad Rank
+* ``More qualified leads:`` Giving users relevant information up front often translates into more qualified leads. Because users know what to expect when they arrive on your website, they're more likely to fulfill the action fostered by the ad.
+
+
+2. Choose the right ad extensions
+=================================
+
+Google Ads automatically serves the ad extensions that are predicted to have a positive impact on performance.
+
+How are ad extensions served?
+-----------------------------
+
+* At any given time, up to four extensions can show for a particular query or device.
+* Google Ads shows one or more extensions with your client’s ad when it calculates that the extension (or combination of extensions) will improve campaign performance, and when the Ad Rank is high enough for it to appear.
+
+Universal extensions
+--------------------
+
+three extensions every marketer should be using to enhance their text ad
+
+* sitelinks
+* callout extensions
+* structured snippets
+
+Sitelinks: Direct to specific sections of the website
+-----------------------------------------------------
+
+* Benefit of sitelinks
+
+  * ``Increased engagement:`` Adding sitelinks can boost the average clickthrough rate (CTR) for an ad, including in searches for one of the advertiser's brand terms.
+  * ``More conversions:`` By sending users directly to the right page, you reduce the number of steps they need to perform for an action that you value.
+  * ``Easy to manage:`` Add and update sitelinks at the account, campaign, or ad group level without the need to bid separately or add separate keywords. The system automatically displays the best performing or most relevant sitelinks for each query.
+
+* Why should you use sitelinks?
+
+  * directing to specfic pages
+  * IMPORTANT: sitelink can't be the same as the headline links
+  * Purposes: ( Driving store sales, Making online conversions, Raising brand awareness )
+  
+Sitelinks - Tip, Best Practices
+-------------------------------
+
+``Add as many sitelinks as you can:`` You should ideally implement 8 to 10 active sitelinks per campaign. Make sure you have enough content on your website to have at least two sitelinks, otherwise the sitelinks won't show.
+``Select the right landing pages:`` Link directly to popular or high-converting sections of your website.
+``Guide the user:`` In the sitelink title, clearly mention what users will find on the landing page.
+
+Callout extensions: Highlight value-adding attributes
+-----------------------------------------------------
+
+Callout extensions are short, specific (25-character) snippets of text. They can be used to highlight information about value-adding attributes of the business, products, or services
+
+Callout extensions: Benefits of callouts
+----------------------------------------
+
+* ``Boosts engagement:`` In our tests, this added information drove a ~10% increase in CTR. Callout extensions are a powerful way to highlight value-added attributes about a particular product or service.
+* ``Easy to implement:`` Just add 25 characters for most languages, or 12 characters for double-width languages (like Chinese, Japanese, and Korean).
+
+Callout extnsions: Why use?
+---------------------------
+
+Callout extensions are short snippets of text and can serve multiple marketing objectives such as:
+
+* ``Drive store sales:`` Free pickup in store; no lines at checkout
+* ``Online conversions:`` 365-day returns; free shipping over $25; 24/7 customer service
+* ``Brand awareness:`` Zero-waste policy; organic material only
+
+Callout extensions: Tips and best practices
+-------------------------------------------
+
+* ``Be brief:`` Keep your callouts as short and specific as possible, and include at least six of them in your campaigns.
+* ``Be appealing:`` Consider callouts that are unique offerings and can apply at a high level to your whole business.
+* ``Be concrete:`` Focus on specific info (for example, “4.7-inch LED display” vs. “large LED display” and “34 MPG max mileage” vs. “great fuel economy”).
+* ``Think bullet points:`` "Free shipping" is much sharper than "We have free shipping." Sentence case beats title case (e.g., “100% silk” vs. “100% Silk”).
+
+Structured snippets: Give a glimpse of what’s offered
+-----------------------------------------------------
+
+Structured snippets allow you to describe features of a specific product or range of products or services offered by the business before users click on the ad.
+
+Location extensions
+-------------------
+
+Location extensions let you show your business address, phone number, and a map marker alongside your ad text. On mobile devices, there’s a link with directions to your business
+
+
+Location extensions - Benefit
+-----------------------------
+
+* ``Drive store sales:`` By helping users find a nearby store, you improve the chance that they’ll visit you and make purchases in person.
+* ``Drive online sales:`` Many users feel more confident buying online if they know there is a store close to them (in case they’d like to exchange or return what they’ve bought).
+* ``Increase performance:`` On average, ads with location extensions see a 10% boost in CTR.
+* ``Boost visibility:`` Add a bid modifier for users who are close to a store location. This increases the ad's visibility and the chances that the user will visit the store.
+* ``Report store visits:`` Location extensions are one of the requirements if advertisers want to report store visits.
+
+
+Location extensions - When to use
+---------------------------------
+
+Location extensions are great if you have physical stores that you can drive foot traffic to, or for otherwise encouraging customer visits.
+
+Location extensions - Tips and best practices
+---------------------------------------------
+
+* ``Keep information updated:`` Location extensions are served via the Google My Business (GMB) account. Make sure information such as address and phone number are updated.
+* ``Adapt bids:`` Bid more aggressively for users who are close to your stores to ensure they see your ad. This can be done via the Advanced Location settings in Google Ads.
+
+Affiliate location extensions
+-----------------------------
+
+Give directions to retail partner locations (available in select countries): Affiliate location extensions allow product manufacturers to drive visits to retail partners that sell their products. The format displays the headline and URL for the manufacturer’s website, ad text for the manufacturer’s product, and the nearest retailer.
+
+Affiliate location extensions - Benefits
+----------------------------------------
+
+* ``Drive store sales:`` By helping consumers find a nearby retailer that sells your product, you improve the chance that they’ll visit you and make a purchase in person.
+* ``Drive online sales:`` Consumers have the option to visit the manufacturer's website and purchase online if they don’t have time to visit the retailer.
+* ``Report store visits:`` Affiliate location extensions are one of the requirements if manufacturers want to report store visits.
+
+Affiliate location extensions - When to use
+----------------------------------------
+
+Affiliate location extensions are ideal for manufacturers. They help consumers find their products at select retailers, while still providing the option to visit their website and purchase online.
+
+Affiliate location extensions - Tips and best practices
+-------------------------------------------------------
+
+* ``Maximize local reach:`` In the Google Ads interface, select retail chains or automotive dealerships to highlight all of the nearby locations where consumers can find your products.
+* ``Adapt bids:`` Set higher bids for users who are close to retailer locations to ensure they see your ad. This can be done via the Advanced Locations Settings in Google Ads.
+
+Call extensions
+---------------
+
+allowing mobile users to directly call your business
+
+Call extensions - Benefits
+--------------------------
+
+* ``Convenience:`` Generate calls directly from your ads and provide customers with a more convenient way to reach you.
+* ``Qualified leads:`` Drive greater response and a higher number of qualified leads by increasing the options available to consumers for connecting with you.
+* ``Flexible scheduling:`` Specify what dates, days of the week, or times of day call extensions should appear, aligned with your business's (or call center's) opening hours. Outside the designated times, the ad won't show the call button (mobile) or phone number (desktop) when it is displayed.
+
+Call extensions - When to use
+-----------------------------
+
+Use call extensions if you do business over the phone and value phone calls as much as you value clicks to your website
+
+Call extensions - Tips and best practices
+-----------------------------
+
+* ``Measure the impact:`` Enable phone call conversions reporting in account settings to assess which campaigns, ad groups, and keywords are most effective at driving call conversions.
+* ``Provide great service:`` Once customers call you, success mainly depends on the service they receive from your call center. Make sure your staff is trained to answer questions about the services or products that your extensions are associated with.
+
+Call extensions - NOTE
+----------------------
+
+Structured snippets, callouts, and location ad extensions are eligible to show with call-only ads.
+
+Other extensions
+----------------
+
+* App extensions
+* Price extensions
+* Promotion extensions
+* Message extensions
+
+Ad extensions best practices
+----------------------------
+
+* ``Use the right number of extensions:`` You should have at least three, but it’s highly recommended to have four since in any given auction, an ad can show a maximum of four ad extensions. At a minimum, always enable sitelinks, structured snippets, and callouts.
+* Keep them fresh and updated
+* Monitor performance
+
+
+3. Automated Ad Extensions
+==========================
+
+* Every Google Ads account gets opted into.
+* The content for automated extensions is carefully generated by machine learning and support by a dedicated team within Google
+
+What are automated ad extensions?
+---------------------------------
+
+* Fully automated extensions
+* ``Advertiser-provided extensions:`` not automatically generated. ( but, Google recommends implementing the options amount for the business )
+
+Dynamic extensions ( can serve automatically )
+----------------------------------------------
+
+* ``Dynamic sitelinks:`` automatically generated sitelinks that can serve with search ads ( 2-6 sitelinks - depending on customer's device )
+* ``Dynamic structured snippets:`` min 2 snippets will show, but there is no maximum number
+* ``Dynamic callout extensions:`` generated from existing content on your website
+
+Seller ratings (stars) extension
+--------------------------------
+
+Sources
+
+* Google Customer Reviews ( GCR )
+* StellaService
+* Google-led shopping research
+* Google Consumer Surveys
+* Third-party review sites
+
