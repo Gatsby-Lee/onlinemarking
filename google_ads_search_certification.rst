@@ -369,3 +369,113 @@ To improve your ad quality, focus on the three components of Quality Score
   * ``Make your site transparent and trustworthy:`` Make it easy for visitors to find your contact information, and clearly state what your business does. If you request personal information from customers, make it clear why you’re asking for it and what you’ll do with it.
   * ``Work on loading speed and clarity:`` Help users quickly find what they’re looking for by prioritizing the content that’s visible above-the-fold.
   * ``Rethink mobile:`` Ease of navigation is valued by users even more on mobile websites, so make sure yours is optimized.
+
+------
+
+Deliver the right message with text ads
+#######################################
+
+3 required parts of a text ad
+=============================
+
+* Headline
+* Description
+* URL
+
+How many ads should be implemented per ad group
+===============================================
+
+* 3-5 ads
+
+1. What's a text ad?
+====================
+
+To effectively reach potential customers, text ads should be informative, relevant, and engaging.
+
+Headline
+--------
+
+* Tip: 
+
+  * Include at least one of your keywords in your headline: Keywords in your ad text show your ad’s relevance to what people want. For example, if you've included "mountain bikes" and "new bikes" as keywords, one of your ad headlines could be "Buy New Mountain Bikes."
+
+* Details:
+
+  * Up to three headline fields are available with up to 30 characters each. The first two headline fields are required, and the third is optional.
+  * Look out for how your longer headlines — separated by a vertical pipe ("|") — might wrap on mobile devices.
+  
+Description - Tip
+-----------------
+  
+On mobile, where space is tight, Google Ads optimizes your ad to show the highest-performing text. ( 90 char )
+
+* ``Highlight what makes your business unique:`` Free shipping? Dazzling variety? Tell people! Showcase the products, services, or offers that make you competitive.
+* ``Include prices, promotions, and exclusive offers:`` People often use Google Search to find information and get things done. Give them what they need to make a decision. If you have a limited-time discount or stock an exclusive product, say so.
+* ``Empower customers to take action:`` Are you selling something or offering a service? Calls to action — like purchase, call today, order, browse, sign up, or get a quote — make next steps clear to your potential customer.
+
+URL - Tip
+---------
+
+Match your ad to your landing page: Have a look at the page that you're linking to from your ad (the landing page), and make sure that the promotions or products in your ad are included there. People might leave your website if they don’t find what they expect.
+
+
+2. How to create effective text ads
+===================================
+
+Steps to create a text ad in Google Ads
+---------------------------------------
+
+* signin
+* select Ads / Extensions
+* Select the + butten and choose the Text Ad option
+* Enter URL, headline, and description
+* Save Ad
+
+Best practices for excellent Google Ads creatives
+-------------------------------------------------
+
+* ``Implement three to five ads per ad group:`` the more ads present in an ad group the more options you will have for success in an auction.
+* ``Optimize your ad rotation for clicks or conversions:`` Optimizing your ad rotation will allow the system to serve the ideal ad for the specific circumstances of each auction
+* ``Use at least three extensions for each campaign or ad group:`` At the time of each auction, your ad will be assembled with the most appealing extensions. More eligible extensions give your ads more opportunity to meet user's specific needs.
+
+Tip
+---
+
+When you rotate your ads to optimize for clicks or conversions, ad groups with three or more high-quality ads may receive up to 15% more clicks or conversions, compared to ad groups with one or two ads. 
+
+* https://support.google.com/google-ads/answer/112876
+* https://support.google.com/google-ads/answer/2375499
+
+
+3. Responsive search ads
+========================
+
+General
+-------
+
+* up to 15 headlines
+* up to 4 descriptions
+
+What are responsive search ads?
+-------------------------------
+
+Based on headlines and descriptions provided by user, Google Ads assembles the text into multiple ad combinations in a way that avoids redundancy. Over time, we'll test the most promising ad combinations, and learn which ones are the most relevant for your customers.
+
+Tip
+---
+
+Make sure to choose ad groups that have a good amount of traffic, and then regularly monitor their performance and ad status.
+
+What are the benefits of responsive search ads?
+-----------------------------------------------
+
+* Flexiblity
+* Relevance: Google Ads show the most relevant combinations to your customers. 
+* Reach
+* Performance: increasing ad group performance - more clicks and conversions
+
+Important note
+--------------
+
+Create at least one responsive search ad for each ad group, and ensure to include at least two expanded text ads in that group.
+* Best Practive - http://services.google.com/fh/files/misc/creativebestpracticesguide.pdf
