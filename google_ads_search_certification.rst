@@ -704,3 +704,107 @@ Sources
 * Google Consumer Surveys
 * Third-party review sites
 
+-----------
+
+Increase Efficiency with Automated Bidding
+##########################################
+
+Bidding is a key success factor for online marketing, and the bid strategy you choose directly influences how your campaigns perform and how visible your ads are in the unique moments that are important to your businessㅍ
+
+Summary
+=======
+
+* Target Impression Share: Visibility
+* Maximize Clicks: Traffic
+* Target CPA: Conversion
+* Target ROAA: Revenue
+
+
+1. What's automated bidding?
+============================
+
+Key Factoers
+------------
+
+* Performance
+* Auctions
+* User Journey Complexities
+
+Benefits of Google Ads automated bidding
+----------------------------------------
+
+* ``Machine learning:`` Automated bidding uses machine learning to algorithmically help you set the appropriate bid for each and every auction.
+* ``Time saved:`` Cross-referencing audience data with context to establish intent and set the appropriate bid is a complex and time-consuming task.
+* Auction-time bidding
+* Depth of signals ussed and cross anlaysis
+
+Tip
+---
+
+You can implement a Google Ads automated bidding strategy to get the benefits of auction-time bidding while still using a third-party management solution.
+
+2. Choose the right bidding strategy
+====================================
+
+
+Awareness-based bidding strategies
+----------------------------------
+
+You should choose this bid strategy if you want to make sure that your ad is ``visible`` for certain queries and even at certain locations on the page.
+
+* Goal:`` Visibility
+* ``Bid Strategies to choose from:`` Target impression share: This helps make sure your ads are meeting a specific impression share threshold for a specific location on the search results page: anywhere, top of page, or absolute top of page.
+* ``Use case:`` This is for raising awareness of your brand and campaigns that include brand terms.
+
+
+Consideration-focused bidding strategies
+----------------------------------------
+
+You should choose this bid strategy if you want to drive as many ``clicks`` as possible within a set level of spend.
+
+* ``Goal:`` Clicks
+* ``Bid Strategies to choose from:`` Maximize clicks: Set bids to try to get you as many clicks as possible within a target spend amount that you choose.
+* ``Use case:``
+
+  * Budget-constrained campaigns focused on driving clicks
+  * Drive more click volume
+  * Maximize traffic when extra budget is received
+  * Upper funnel keywords that have high assist value in conversion
+
+
+Conversion-focused bidding strategies
+-------------------------------------
+
+if you're tracking actions post-click, valuing conversions equally, and looking to maximize the number of conversions. 
+
+* ``Goal:`` Conversions
+* ``Bid Strategies to choose from:``
+
+  * ``Maximize Conversions:`` Drive as much conversion volume as possible within your budget. You don't need to provide a specific cost per click (CPC), cost per acquisition (CPA), or return on ad spend (ROAS) target. 
+  * ``Target cost-per-acquisition (tCPA):`` This strategy automatically sets bids to help you increase conversions while reaching your average cost-per-acquisition goal.
+  * ``Enhanced cost-per-click (eCPC):`` This strategy automatically adjusts your manual bid up or down based on each click’s likelihood to result in a conversion.
+
+* ``Use case:``
+
+  * ``Maximize Conversions:`` Advertisers who want to maximize the number of conversions for a campaign. Advertisers that want to spend a fixed budget and don’t have an explicit CPA/ROAS goal
+  * ``Target cost-per-acquisition (tCPA):`` Maximize amount of conversions, without considering order value — such as lead generation and eCommerce businesses. (Note: For a Display campaign using Target CPA, you can choose to pay for conversions billing.)
+  * Enhanced cost-per-click (eCPC): 
+  
+    * For Search, this is for advertisers who want to set the core bid manually or through third-party bidding tools, with an added layer of real-time optimization. 
+    * For Display, this is for advertisers who do not have conversion tracking, use a third-party bidding system, or insist on setting bids manually with an added layer of real-time optimization. It's also great for lead generation and to drive online sales.
+
+Revenue-focused bidding strategies
+----------------------------------
+
+if you’re tracking the revenue or value associated with your conversions and want to maximize it at a specific return on ad spend target. 
+
+They’re a good fit if you’re tracking conversion value and have campaigns that have at least 50 conversions in the past 30 days for Search and at least 15 conversions in the past 30 days for Display.
+
+* ``Goal:`` Revenue
+* ``Bid Strategies to choose from:`` Target return on ad spend (Target ROAS): Automatically sets bids to help get as much conversion value as possible at the target return on ad spend (ROAS) you set
+* ``Use case:`` If you want to automatically optimize bids to maximize revenue within your target ROAS
+
+Note
+----
+
+Enhanced CPC, Target CPA, Maximize Conversions, and Target ROAS fall specifically under the umbrella of Google Ads Smart Bidding. They’re conversion-based bid strategies that leverage an exclusive set of signals to bid at auction time.
