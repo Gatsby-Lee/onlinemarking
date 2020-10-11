@@ -463,3 +463,10 @@ Prepare
 
 12. Which targeting option is best for achieving brand awareness? ( Affinity )
 13. Which targeting option is best for influencing consideration? ( Custom Intent )
+
+-----
+
+Some confused qusetions
+########################
+
+1. Hank wants to use a "Maximize Conversions" campaign with the Performance Planner. Which recommendation can be provided to Hank by the Performance Planner? ( A recommended average daily budget )
