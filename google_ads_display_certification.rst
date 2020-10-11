@@ -340,3 +340,78 @@ AMPHTML ads enable marketers, publishers, and technology providers to deliver fa
 ``Faster ads drive better performance:`` AMPHTML ads are 6x faster than regular ads on AMP pages, making them more viewable, more effective, and more likely to perform well.
 ``Lighter ads can lead to better ad experiences:`` AMPHTML ads are 3x lighter in load and rendering than regular ads which may result in users having a more positive experience with your brand. 
 ``Safer ads build trust in your brand:`` AMPHTML ads need validation before they’re served, reducing the risk of malware and building trust in the brands users are engaging with.
+
+-------
+
+Increase Conversions with Performance Planner
+#############################################
+
+1. Why you should plan for performance with Performance Planner
+===============================================================
+
+Planning is the crucial first step to achieving success with Google Ads
+-----------------------------------------------------------------------
+
+By planning your Google Ads budgets on a monthly basis in advance, you can help ensure that when people need products or information, your ads can meet them at the right time to help maximize conversions and achieve your key performance indicators (KPIs).
+
+By planning your Google Ads budgets in advance, you can:
+
+1. Understand the future spend potential of current Google Ads campaigns to help drive budget decisions
+2. Take advantage of seasonality to capture incremental opportunities 
+3. Set optimal bids and budgets across your campaigns to help ensure that ROI performance is maximized
+4. Find new opportunities to grow your sales volumes with Google Ads
+
+How does Performance Planner forecast campaign performance?
+-----------------------------------------------------------
+
+* forecasting
+* Simulation
+* Machine learning
+* validation
+
+Why use Performance Planner in Google Ads over traditional forecasting methods?
+-------------------------------------------------------------------------------
+
+* Get accurate forecasts
+* Get the benefits of machine learning
+
+
+2. How to use Performance Planner
+=================================
+
+Why should I use Performance Planner every month?
+-------------------------------------------------
+
+Seasonality, fluctuating auctions, and competitors mean that Google Ads campaigns should be planned and optimized on at least a monthly basis.
+
+* Create separate plans for each marketing objective
+
+  Don't add all brand and generic campaigns into the same plan. That's because different campaigns often have different marketing objectives. Incremental conversions are achieved by creating separate plans for each marketing objective.
+
+3. Take action with Performance Planner
+=======================================
+
+``NOTE!!`` Performance Planner is a planning tool and does not optimize in the Google Ads front end toward forecasted KPIs. Unpredictable external factors in a dynamic auction environment can mean Performance Planner forecasts may have discrepancies, so it's important to continually monitor performance and optimize toward performance targets.
+
+Performance Planner Best Practices
+----------------------------------
+
+* Use non-last click attribution conversions
+* Create multiple plans for campaigns that have differenet marketing objectives
+* Use the performance targets feature
+* Use optimization score in the Recommendations page to improve your campaigns
+
+Here are some additional factors that you should check while budget planning:
+-----------------------------------------------------------------------------
+
+* Seasonality
+* Market share
+* growth
+
+* Set bids and budgets using non-last click conversions
+
+  By default, Performance Planner will forecast conversions based on what's included in the Conversions column in your Google Ads front end. To allocate budgets that drive incremental conversions, set bids and budgets using non-last click conversions in your Conversions column.
+
+* Regularly check your plan
+
+  Forecasts improve when plans are generated closer to the actual run date. Make sure to regularly check back on your plan before implementing it.
