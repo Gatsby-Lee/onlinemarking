@@ -470,3 +470,15 @@ Some confused qusetions
 ########################
 
 1. Hank wants to use a "Maximize Conversions" campaign with the Performance Planner. Which recommendation can be provided to Hank by the Performance Planner? ( A recommended average daily budget )
+2. Emmy is the marketing director of a large marketing team, looking to reach an audience at scale through Smart Display campaigns. How might Smart Display campaign reporting help Emmy? ( In addition to standard Google Ads reporting, it provides reports that facilitate broad, strategic ad management. )
+3. Mary manages Google Search campaigns and would like to extend her reach with Google Display ads. She's trying to decide whether to create a Standard Display campaign or a Smart Display campaign. Why would Mary choose Standard Display campaigns over Smart Display campaigns? ( She prefers more control over all aspects of her Display campaigns. )
+4. When should you use responsive display ads? ( When your primary goal is performance )
+5. While managing a successful Google Ads campaign, why would you choose automated bidding instead of manual bidding? ( Because given the dynamic nature of Google's auctions, the appropriate bid can often be a moving target that is challenging to reach at scale when using manual bidding )
+6. Amy has created a new brand for her company's goldfish training materials. She knows that other companies train goldfish and it is a popular sport, but realizes that it is a niche market. She wants to use a Google Display Ads campaign to build awareness for her new brand. Which Google Display ad targeting option can help Amy with her goal of creating awareness within her niche market? ( Custom Affinity Audiences )
+7. Using the Performance Planner on a monthly basis allows you to optimize which two aspects of an account? (Choose two.) ( bids, budgets )
+8. Lola is in the process of selecting a campaign type to suit her business objectives. Why is it important that she consider business objectives before choosing her campaign type?
+9. Marta has a tight marketing budget and needs to use a strategy that can drive customers to her website for a set cost. Which bidding strategy has the potential to meet Marta's needs? ( Maximize clicks )
+10. Lucy is creating a new Display campaign with the goal of building awareness. Which two targeting options might be suitable for her to use? ( Affinity Audiences / Demographic targeting )
+11. Doreen uses Google Search to reach customers as they search for products similar to hers. She'd like to create a Display Remarketing campaign to reconnect with users and increase sales. ( It allows her to show ads to people who previously visited her website as they browse websites and use apps. )
+12. Which factors should an advertiser consider when deciding on a bidding strategy? ( User journey complexities, performance, and auctions )
+
