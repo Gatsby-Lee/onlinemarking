@@ -58,3 +58,86 @@ Optimize your campaign
 * Locations and language targeting
 * Bidding and budget settings
 * Ad extensions
+
+---------
+
+Identify Campaign Types on Google Display Ads
+#############################################
+
+1. Display advertising on Google Display ads
+============================================
+
+With Google Display ads as your advertising ally, you can reach over ``90% of global internet users across more than three million apps and websites.`` This kind of reach allows you to learn about consumer behavior, identify valuable audiences, and engage with those audiences quickly and often.
+
+What's the value of Google Display ads?
+---------------------------------------
+
+* ``Powerful intent signals:`` Google harnesses best-in-class intent signals to place ads against the most relevant content, driving your marketing results.
+* ``Massive scale:`` Run your ads and connect with your audience through Gmail, YouTube, and millions of other websites.
+* ``Measurable performace:`` Maximize results with Google Display ads' measurable performance.
+* ``Easy campaign setup:`` Once you indicate your marketing objective, Google Display ads will bring you the features and options that are relevant to what you want to accomplish.
+
+Intent signals and machine learning
+-----------------------------------
+
+Google intent signals and machine learning enable greater relevance to achieve your desired outcome, at scale.
+
+* ``Deep understanding of user mindset:`` Google analyzes user activity across our owned and operated properties and over three million website and app partners to generate a clear understanding of user preferences.
+* ``Effective use of machine learning:`` Google uses advanced machine learning capabilities to bring best-in-class automation, bidding, and targeting to reach users at just the right moment.
+* ``Unique insights:`` Unique insights across over three million websites and apps including access to six properties with over one billion users
+
+  Google’s proprietary, real-time view of context and user behavior on our owned and operated properties and across the web powers our unique understanding of user intent and our full audience suite. Reach users in the moments that matter
+  
+Who uses Google Display ads, you might be asking?
+-------------------------------------------------
+
+Small to Large businesses
+
+2. Display campaign types
+=========================
+
+What's a Smart Display campaign?
+--------------------------------
+
+Smart Display campaigns rely on the existing CPA model to set the bids at the right time. They also use a new auto-targeting infrastructure to deliver the best of Display targeting across the entire mid- and lower-funnel, and leverage a new auto-optimized creative technology to combine raw creative assets (logos and images), and build custom ads for each auction.
+
+Key benefits of Smart Display campaigns
+---------------------------------------
+
+* ``Simplicity:`` Create your campaign in minutes by providing just three inputs: budget, bid, and creative assets.
+* ``Insights:`` receive all standard Google Ads reporting
+* ``Scale:`` Smart Display campaigns run across the three million websites and apps available on Google Display ads, including AdMob and Google owned and operated properties such as YouTube.
+
+Components of Smart Display campaigns
+-------------------------------------
+
+* Automated bidding
+* Automated targeting
+* Automated creatives
+
+Who should run Smart Display campaigns?
+---------------------------------------
+
+if you are new to display advertising and want a fast and highly performing campaign.
+
+What's a Standard Display campaign?
+-----------------------------------
+
+* ``Targeting:`` three marketing objectives you'll be able to choose
+
+  * ``Build awareness:`` Increase how well people know your brand.
+  * ``Influence consideration:`` Encourage people to explore your products or services.
+  * ``Drive action:`` Get sales or leads by motivating people to take action.
+  
+* ``Bidding:`` four main bid strategies you'll be able to choose
+
+  * ``Enhanced CPC:`` Automatically adjusts your manual bid up or down based on each click’s likelihood to result in a conversion
+  * ``Maximize Conversions:`` Drive as much conversion volume as possible within your budget
+  * ``Target CPA:`` Automatically sets bids to help you increase conversions while reaching your average cost-per-acquisition goal
+  * ``Target ROAS:`` Automatically sets bids to help get as much conversion value as possible at the target return on ad spend you set
+
+* ``Ad Formats:`` two main types of ad formats
+
+  * ``Responsive Display ads:`` Greater efficiency and scale
+  * ``Uploaded ads (Image & AMPHTML):`` Greater control
+  
