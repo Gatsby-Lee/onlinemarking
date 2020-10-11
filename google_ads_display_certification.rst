@@ -229,3 +229,57 @@ Dynamic remarketing
 Work to boost your results with dynamic remarketing, which takes remarketing to the next level with ads that include products or services that people viewed on your website. Create dynamically generated display ads with product data pulled from a pre-uploaded feed. You can achieve great performance showing to users products they have seen on your website, with low effort in campaign, ads, and remarketing lists creation.
 
 ``viewed one of her bicycles but didn't purchase and show them an ad with that exact bicycle``
+
+Increase Efficiency with Automated Bidding
+##########################################
+
+1. What's automated bidding?
+============================
+
+Bidding is a key success factor for online marketing, and the bid strategy you choose directly influences how your campaigns perform and how visible your ads are in the unique moments that are important to your business. Google Ads offers several bid strategies that are tailored to your marketing goals and different types of campaigns. Depending on your focus, you can determine which strategy is best for you.
+
+
+What's automated bidding?
+-------------------------
+
+* Performance
+
+  Bids influence how visible your ads are and the amount of interaction you get in each unique moment. If you don't bid efficiently, you could miss valuable conversions. 
+
+* Aunctions
+
+  Given the dynamic nature of our auctions, the appropriate bid can often be a moving target that's challenging to reach at scale when using manual bidding.
+
+* User Jouney Complexities
+
+  Many signals influence user behavior. Their intent and likelihood to complete valuable actions for your business vary based on location, time, device, and so on. Taking all these signals into account for every auction and bidding can be done through automation.
+  
+  
+Benefits of Google Ads automated bidding
+----------------------------------------
+
+* machine learning
+* time saved
+* auction-time bidding
+* depth of signals used and cross analysis
+
+2. Choose the right bidding strategy
+====================================
+
+* ``Awareness-based bidding strategies:`` Visibility - raising awareness of your brand and campaigns that include brand terms
+* ``Consideration-focused bidding strategies:`` Clicks
+
+  * Budget-constrained campaigns focused on driving clicks
+  * Drive more click volume
+  * Maximize traffic when extra budget is received
+  * Upper funnel keywords that have high assist value in conversion
+
+* ``Conversion-focused bidding strategies:`` Conversion: 
+
+  * ``Maximize Conversions:`` Drive as much conversion volume as possible within your budget. You don't need to provide a specific cost per click (CPC), cost per acquisition (CPA), or return on ad spend (ROAS) target. 
+  * ``Target cost-per-acquisition (tCPA):`` This strategy automatically sets bids to help you increase conversions while reaching your average cost-per-acquisition goal.
+  * ``Enhanced cost-per-click (eCPC):`` This strategy automatically adjusts your manual bid up or down based on each click’s likelihood to result in a conversion.
+
+* Revenue-focused bidding strategies: Revenue
+
+  Target return on ad spend (Target ROAS): Automatically sets bids to help get as much conversion value as possible at the target return on ad spend (ROAS) you set
