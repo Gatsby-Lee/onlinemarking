@@ -441,4 +441,25 @@ Prepare
   * Intent
   * Machine Learning
   * Performance
-  
+
+8. Match each auto-bidding strategy to the right campaign goal.
+
+  * Target Impression Share: Visibility
+  * Maximize Clicks: Traffic
+  * Target CPA: Conversion
+  * Target ROAA: Revenue
+
+9. Which of the following is a core benefit of Google Ads automated bidding? ( Auction-time bidding )
+10. What are the three marketing objectives that can be met via targeting on Google Display ads?
+
+ * Build awareness
+ * Influence consideration
+ * Drive action
+ 
+11. What two types of remarketing can be used on Google Display ads?
+
+  * Dynamic remarketing
+  * Standard remarketing
+
+12. Which targeting option is best for achieving brand awareness? ( Affinity )
+13. Which targeting option is best for influencing consideration? ( Custom Intent )
