@@ -283,3 +283,60 @@ Benefits of Google Ads automated bidding
 * Revenue-focused bidding strategies: Revenue
 
   Target return on ad spend (Target ROAS): Automatically sets bids to help get as much conversion value as possible at the target return on ad spend (ROAS) you set
+
+--------
+
+Deliver the Right Message on Google Display Ads
+###############################################
+
+two main ad formats can be used in a Google Display ads campaign?
+=================================================================
+
+* Responsive Display Ads
+* Uploaded Ads
+
+
+1. Display ad formats
+=====================
+
+Creatives are the face of your brand through advertising, so you want to make sure they represent you well. Ad formats let you choose how to communicate your business to your audience. 
+
+2. Responsive Display Ads
+=========================
+
+Responsive Display Ads are Google’s marquee Display ad format and are the default ad type when creating a Display campaign. They represent the future of asset-based digital advertising.
+
+What are Responsive Display Ads?
+--------------------------------
+
+Responsive Display Ads give you the ability to upload your own assets and create ads that serve in all ad slot sizes, into both native and non-native inventory. Simply upload your assets (images, videos, headlines, logos, and descriptions), and Google will automatically create ads. They're built for performance, reach, and scale.
+
+Key benefits
+------------
+
+50% more conversions at a similar cost-per-acquisition (CPA) when advertisers add Responsive Display Ads to their image ad campaigns.
+
+* ``Automation:`` machine learning model to determine the optimal combination of assets for each ad slot based on predictions built from your performance history
+* ``Reach:`` Google assembles automatically adjust uploaded assets size, appearance, and format to fit just about any native or non-native ad slot
+* ``Creative testing:`` Google does billions of creative A/B tests for your business. Google also leverages multiple machine learning modules (asset selection, color extraction, auto-fitting, and more) to create the right message to the right user across desktop, mobile, and apps.
+
+3. Uploaded ads
+===============
+
+Uploaded ads offer greater control over the way your ads look and feel. You build your own ads outside of Google Ads and simply upload them to your Display campaign.
+
+What are image ads?
+-------------------
+
+Created outside of Google Ads (in Google Web Designer, for example), image ads are uploadable as a .zip file into Google Ads. Image ads only run in banner-eligible slots, which has limited scale relative to Responsive Display Ads.
+
+* ``Key Benefits:`` Complete creative control. You can develop these ads yourself using templates to decide how best to combine your different images, text, and logos.
+
+What are AMPHTML ads?
+---------------------
+
+AMPHTML ads enable marketers, publishers, and technology providers to deliver faster, and more secure ad experiences across all platforms by applying the principles of AMP to building and serving ads. 
+
+``Faster ads drive better performance:`` AMPHTML ads are 6x faster than regular ads on AMP pages, making them more viewable, more effective, and more likely to perform well.
+``Lighter ads can lead to better ad experiences:`` AMPHTML ads are 3x lighter in load and rendering than regular ads which may result in users having a more positive experience with your brand. 
+``Safer ads build trust in your brand:`` AMPHTML ads need validation before they’re served, reducing the risk of malware and building trust in the brands users are engaging with.
