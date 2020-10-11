@@ -415,3 +415,30 @@ Here are some additional factors that you should check while budget planning:
 * Regularly check your plan
 
   Forecasts improve when plans are generated closer to the actual run date. Make sure to regularly check back on your plan before implementing it.
+
+
+Prepare
+#######
+
+1. What two main ad formats can be used in a Google Display ads campaign? ( Uploaded Ads / Responsive Display Ads )
+2. Which of the following are the benefits of using Responsive Display Ads? ( Simplicity, Automation, Reach )
+3. Uploaded ads give advertisers access to more inventory than Responsive Display Ads ( False )
+4. pass
+5. How can Google Ads help you advance your business goals?
+
+  * By building awareness of your brand
+  * By driving online, in-app, in-person, and over-the-phone sales
+  * By influencing consideration of your products and services
+
+6. What are the three main automation components of Smart Display campaigns?
+
+  * Automated bidding
+  * Automated targeting
+  * Automated creatives
+
+7. Which of the following is not a component of Google Display ads' value proposition? ( Search ). Then what are value proposition?
+
+  * Intent
+  * Machine Learning
+  * Performance
+  
